@@ -77,7 +77,7 @@ p.bold-text
 
 .btn.decline
 {
-  background-color: none;
+  background: none;
   border: solid 2px rgb(139, 0, 219);
   color: rgb(139, 0, 219);
 }
