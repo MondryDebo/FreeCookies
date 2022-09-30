@@ -1,4 +1,3 @@
-const btn = document.querySelector('.btn');
 const overlay = document.querySelector('.overlay');
 const scare = document.querySelector('.scare');
 const jumpscare = document.querySelector('.jumpscare');
